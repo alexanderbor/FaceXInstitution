@@ -1,0 +1,6 @@
+{
+  "name": "Face X Institution ",
+  "tagline": "Reproducibility materials for the manuscript \"Facial appearance and institutional cues in political trust evaluations\" ",
+  "body": "This repository contains reproducibility materials for the manuscript \"\"Facial appearance and institutional cues in political trust evaluations\". \r\n\r\nThe uploaded files include: \r\n\r\n- study1.csv Data for study / experiment 1\r\n- study2.csv Data for study / experiment 2\r\n- study3.csv Data for study / experiment 3\r\n- study4.csv Data for study / experiment 4\r\n- facexinst_bora.R R code with all the analysis. \r\n- summarySE.R A custom R function referenced in the code. \r\n\r\nYou need to download and extract the files, and specify the `setwd()` funtion in the R script in order to reproduce my findings. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
